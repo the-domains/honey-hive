@@ -1,0 +1,14 @@
+layout_spectrum: 0
+typography_spectrum: 0.05531915
+color:
+  saturation: 0.0009238799
+  lightness: 0.7571266
+  brandStrength: 1
+  brandColors:
+    - '#362F37'
+    - '#E5C793'
+    - '#C39156'
+    - '#5C5052'
+    - '#9A6843'
+  rhythmicContrast: 0.8998262
+name: Honey Hive
